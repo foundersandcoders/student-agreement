@@ -21,7 +21,7 @@ Any member may terminate their membership at any time. Failure to abide by these
 ## FAQ
 
 **How much time do I need to give back each month?**    
-As a minimum, regardless of where you are based, you need to be active in at least one FAC study programme or meetup group.  If you are not working full-time on a project from which FAC is benefiting financially and you are using FAC workspace for your own learning or work, then a minimum of 20 hours per month is expected. If you have just completed one of the FACx programmes, then it is your collective responsibility with the rest of your cohort to facilitate FACx+1.
+As a minimum, regardless of where you are based, you need to be active in at least one FAC study programme or meetup group. Members are expected to contribute one hour of support to FAC programmes for every day that they are working in the co-working space on their own projects. If you have just completed one of the FACx programmes, then it is your collective responsibility with the rest of your cohort to facilitate FACx+1.
 
 **What if I do not feel confident being a mentor or running a study programme?**    
 Think about what you are most interested in and find another member who would be prepared to work with you to find ways to share your own learning. Think of where your strengths are and make a contribution accordingly.
