@@ -10,8 +10,8 @@ All members must abide by the following rules of membership.
 
 + To support new members in their studies (and primarily to help with the full-time study programme); 
 + To participate in and support the study programmes that we provide to the general public;
-+ Not to apply for a position (whether permanent or contract) at a company without first giving FAC an opportunity to establish contact with the employer for the purposes of initiating an agency relationship;
-+ Not to encourage another member to apply for a position (whether permanent or contract) at a company with which FAC does not have an agency relationship;
++ When considering an application for a position (whether permanent or contract) at a company with which FAC does not have an agency relationship, first give FAC the opportunity to establish contact with the employer for the purposes of initiating an agency relationship;
++ When considering encouraging another member to apply for a position (whether permanent or contract) at a company with which FAC does not have an agency relationship, first give FAC the opportunity to establish contact with the employer for the purposes of initiating an agency relationship;
 + To make all other members, as well as members of the public, feel welcome in our space.
 
 None of these rules will apply retrospectively.
