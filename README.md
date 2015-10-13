@@ -25,8 +25,8 @@ As a minimum, regardless of where you are based, you need to be active in at lea
 **What if I do not feel confident being a mentor or running a study programme?**    
 Think about what you are most interested in and find someone who would be prepared to work with you to find ways to share your own learning. Think of where your strengths are and make a contribution accordingly.
 
-**What are "recruitment fees"? Do they come out of my salary if I get a job through FAC?**    
-FAC acts like a recruitment agency in finding work for graduates; employers pay a fee to FAC just as they would to a standard recruitment agency. This fee is the main source of income for FAC and will ensure that we will be able to continue to offer the opportunities to others that graduates of our programme have already benefited from. Recruitment fees are one-off lump sums usually expressed as a percentage of an employee's first year salary, but is paid directly by the employer and does not actually come out of the the employee's salary. 
+**What are *"recruitment fees"*? Do they come out of my salary if I get a job through FAC?**    
+FAC acts like a recruitment agency in finding work for graduates; employers pay a fee to FAC just as they would to a standard recruitment agency. This fee is the main source of income for FAC and will ensure that we will be able to continue to offer to others the opportunity that graduates of our programme have already benefited from. Recruitment fees are one-off lump sums usually expressed as a percentage of an employee's first year salary, but is paid directly by the employer and does not actually come out of the the employee's salary. 
 
 **What if I receive an unsolicited offer of work?**    
 Refer them to us and follow our guidelines on how to communicate with prospective employers. It may be useful to display some expanatory text on your LinkedIn page or other professional platforms - FAC will provide this (but it is not mandatory).
@@ -35,7 +35,7 @@ Refer them to us and follow our guidelines on how to communicate with prospectiv
 No. It is often hard, especially with a first job, to realise your own value and it is easy to be over-grateful to a prospective employer who is willing to make you a job offer. Any good employer, once they understand how we operate and the quality of our graduates, is likely to be willing to get involved in a programme that is capable of providing a steady supply of excellent developers. 
 
 **What if I receive a job offer from a friend or ex-employer?**    
-Talk to us. In this case, a suggested response might be:  "I would love to work with you. And if you are looking for any other people, I really recommend you contact the organisation I am part of [insert agreed FAC contact]. I am sure they would be keen to send you more people."
+Talk to us. In this case, a suggested response might be:  *"I would love to work with you. And if you are looking for any other people, I really recommend you contact the organisation I am part of [insert agreed FAC contact]. I am sure they would be keen to send you more people"*.
 
 **What if I want to apply for a job is in an unrelated field?**    
 If the employer is unlikely to hire developers and the job is in a field where recruiters are not usually used, then there is probably no reason to ask them to contact us. If in doubt, ask.
@@ -50,9 +50,9 @@ Like any other employer, you will need to have a recruitment agreement with FAC 
 If you wish to run a company that employs non-FAC staff, then you will need to get agreement from the FAC directors, who must be satisfied that the arrangement is of benefit to FAC. 
 
 **If I am employed elsewhere, does that mean I'm no longer a part of FAC?**    
-Not at all. As long as you are prepared to help out, you will always continue to be welcome. Wherever you are, we always want you to help with FAC programmes or to set up events, meetup groups and study programmes under the FAC banner (and jointly with your own company or employer, where appropriate).
+Not at all. As long as you are prepared to help out, you will always continue to be welcome. Wherever you are, we always want you to help with FAC programmes or to set up events, meetup groups and study programmes under the FAC banner (and jointly with your own company or employer, if you like).
 
-**I live and work abroad. Do I still need to refer prospective employers to FAC?**    
+**I am moving abroad. Do I still need to refer prospective employers to FAC?**    
 Not unless we have a presence in the city where you work, but do please set up events, meetup groups and study programmes under the FAC banner and keep us posted.
 
 **Will FAC help me find work quickly?**    
