@@ -43,7 +43,7 @@ Talk to us. In this case, a suggested response might be:  *"I would love to work
 If the employer is unlikely to hire developers and the job is in a field where recruiters are not usually used, then there is probably no reason to ask them to contact us. If in doubt, ask.
 
 **If I'm freelancing, do I have to give a proportion of my earnings to FAC?**    
-FAC finds freelance work for its graduates and takes a proportion as a fee, as any agency would. The amount is decided on a project-by-project basis, but is usually 10%. You do not need to give a proportion of your earnings to FAC if you have moved away and are finding work for yourself, or if you are earning less than the London Living Wage.   
+FAC finds freelance work for its graduates and takes a proportion as a fee, as any agency would. The amount is decided on a project-by-project basis. You do not need to give a proportion of your earnings to FAC if you have moved away and are finding work for yourself, or if you are earning less than the London Living Wage.   
 
 **If I employ another FAC graduate to work with me, do I have to give a proportion of their earnings to FAC?**    
 Like any other employer, you will need to have a recruitment agreement with FAC (although the terms are likely to be more favourable than for other companies).
