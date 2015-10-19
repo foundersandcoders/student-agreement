@@ -63,8 +63,5 @@ FAC will try to support you in your job hunt and mentor you through interviews, 
 **If I tell FAC about a job I want to apply for, will FAC tell other graduates about the job and increase competition for it?**  
 We think the fairest thing would be to only advertise this job after a suitable period of time has passed. 
 
-**This rule makes me uneasy. I don't want to involve FAC in my conversations with prospective employers.**    
-We understand this, but as our primary source of income, this is currently a condition of joining the programme.
-
 **Are your rules compulsory for all students?**    
-Yes, from 2016 onwards.
+We encourage current students to abide by them, but from now on it will be a condition of accepting an offer to study at FAC.
