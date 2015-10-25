@@ -15,7 +15,7 @@ All students must follow these rules as a condition of joining FAC:
 + To help with subsequent full-time courses (FACx) once they have graduated; 
 + To participate in and support the study programmes and meetups that we provide for the general public;
 + To involve FAC if they are considering applying for a position (or encouraging another student to apply);
-+ To abide by our [code of conduct](http://www.foundersandcoders.com/coc).
++ To make all other students and graduates, as well as members of the public, feel welcome in our space.
 
 If you do not follow these rules, you may be asked to leave FAC.
 
