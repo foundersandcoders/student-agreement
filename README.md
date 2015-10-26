@@ -1,4 +1,4 @@
-# Proposed conditions for being accepted onto FAC7  
+# FAC Student agreement  
 
 Founders & Coders C.I.C. (FAC)  is a not-for-profit company whose main purpose is to provide study and training programmes for the general public and to provide workspace for its students and graduates.
 
@@ -10,7 +10,7 @@ From a financial point of view, we rely heavily on recruitment fees from compani
 
 Our goal is to be financialy sustainable, and we cannot survive without the continued support of our graduates.
 
-All students must follow these rules as a condition of joining FAC:
+All students must agree to follow these rules as a condition of joining FAC:
 
 + To help with subsequent full-time courses (FACx) once they have graduated; 
 + To participate in and support the study programmes and meetups that we provide for the general public;
@@ -67,4 +67,4 @@ We think the fairest thing would be to only advertise this job after a suitable 
 We understand this, but as our primary source of income, this is currently a condition of joining the programme.
 
 **Are your rules compulsory for all students?**    
-We encourage current students to abide by them, but from now on it will be a condition of accepting an offer to study at FAC.
+We encourage current students to abide by them, but it is now a condition of accepting an offer to study at FAC.
