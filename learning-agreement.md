@@ -1,4 +1,4 @@
-# Founders & Coders learning agreeement
+# Founders & Coders learning agreement
 
 Name of learner:
 
@@ -12,7 +12,7 @@ Anticipated course end date:
 
 General terms and conditions:
 
-The course is provided free of charge. For details of our learning agreement, the students should refer to https://github.com/foundersandcoders/charter/. For details of our complaints policy, please refer to https://github.com/foundersandcoders/complaints.
+The course is provided free of charge. For details of our student agreement, the students should refer to https://github.com/foundersandcoders/charter/. For details of our complaints policy, please refer to https://github.com/foundersandcoders/complaints.
 
 
 Signature of learner:
