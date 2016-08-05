@@ -8,4 +8,4 @@ In particular, graduates of each cohort of students are expected collectively to
 
 From a financial point of view, each place on the Founders & Coders programme costs us about £2,500 to provide. To recover this cost, we rely heavily on the fees we receive from companies who employ our graduates. 
 
-If, for whatever reason, you find employment without our assistance, we ask you to consider making a regular voluntary contribution, insofar as you are able, to cover the costs of your participation in the programme.
+If, for whatever reason, you find employment without our assistance, we ask you to consider making a regular voluntary contribution as a way of *'paying it forward'* to provide a place on the course for someone on the next cohort.
