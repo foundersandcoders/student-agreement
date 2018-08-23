@@ -1,9 +1,9 @@
 # FAC Student agreement  
 
-Founders & Coders C.I.C. (FAC) is a not-for-profit company whose main purpose is to provide study and training programmes for the general public and to provide workspace for its students and graduates.
+Founders & Coders is a community founded on the principle of reciprocity. This means that we do not charge our students fees, but we do expect them to contribute back to the viability and development of the programme. We expect the graduates of each cohort to collectively facilitate the next programme. This course is also supported by our vibrant alumni community and we welcome your continued engagement.
 
-FAC was founded on the principal of reciprocity. This means that we do not charge our students fees, but we do expect them to contribute back to the viability and development of the programme.
+It costs us about £3000 to provide you with a place on the Founders & Coders programme. We earn most of our income by acting as an employment agency for our graduates. We request that you help us keep this programme free for future students by working with us to find employment, though you are not obligated to do so. We will be available throughout your career to help you find employment.
 
-In particular, graduates of each cohort of students are expected collectively to take the lead on facilitating the programme for the next student cohort. 
+If you join a company that is not a partner before we can place you and you like working there, please help us make a connection so we can sign them up as a partner. Otherwise, once you are ready to move on we will help you find your next role.
 
-In addition, each place on the Founders & Coders programme costs us about £2,500 to provide. We ask you to consider either seeking employment with one of our partners or, alternatively, making a regular voluntary contribution after you graduate as a way of *'paying it forward'*, so that we can provide a place for someone in a future cohort.
+Alternatively, if you are not planning to seek employment at the the end of the programme, please consider making a regular voluntary contribution after you graduate as a way of 'paying it forward', so that we can provide a place for someone on a future cohort.
