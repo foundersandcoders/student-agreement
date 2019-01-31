@@ -1,4 +1,4 @@
-# Founders and Coders Student Agreement  
+# Student Agreement  
 
 Founders and Coders is a community founded on the principle of reciprocity. This means that we do not charge our students fees, but we do expect them to contribute back to the viability and development of the programme. We expect the graduates of each cohort to collectively facilitate the next programme. This course is also supported by our vibrant alumni community and we welcome your continued engagement.
 
